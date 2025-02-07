@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Ameen, and I'm a passionate software developer specializing in Flutter multi-platform development!
+
+- 🔭 I’m currently working on A rock scanner app that identifies rock types using AI.
+- 🌱 I’m currently learning
+      Advanced Flutter development for multi-platform apps, Exploring AI and image recognition in mobile applications.
+- 👯 I’m looking to collaborate on Open-source Flutter projects.
+
 <!--
 **Ibraheem-MuhammedAmeen/Ibraheem-MuhammedAmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
