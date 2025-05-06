@@ -27,4 +27,4 @@ I'm eager to collaborate on open-source Flutter projects and innovative AI appli
 ### 📫 Connect with Me
 
 - **LinkedIn**: https://www.linkedin.com/in/ibraheem-muhammed-ameen-618788244/
-- **Email**: ibraheemameen941@gmail.com
+- **Email**: Ibraheemameen941@gmail.com
