@@ -6,7 +6,7 @@ I'm a passionate software developer diving deep into Flutter multi-platform deve
 
 ### 🚀 Current Endeavors
 
-- 🚖 **Ride-Hailing (Bolt Clone): Currently building a full ride-hailing app — integrating maps, real-time driver tracking, user authentication, and trip management.
+- 🚖 **Ride-Hailing (Bolt Clone): Currently building a full ride-hailing app integrating maps, real-time driver tracking, user authentication, and trip management.
 - 🤖 **AI Exploration**: Delving into machine learning to enhance mobile applications with intelligent features.
 
 
